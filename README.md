@@ -24,13 +24,6 @@ This internship focuses on **AI-driven prompt engineering**, enabling participan
 
 *(More tasks will be updated as I progress in the internship.)*  
 
-## 📅 Important Guidelines  
-✅ **GitHub Repository Naming**: All task submissions follow the format **"FUTURE_PE_TaskNumber"**  
-✅ **Task Submission**: Submissions will be made via the official form provided during the internship  
-✅ **LinkedIn Engagement**: A LinkedIn post is required after each task completion, tagging **Future Interns** (#futureinterns)  
-✅ **Certification Requirements**:  
-- 📜 Completion Certificate: Minimum **2 tasks** completed  
-- 🏅 Letter of Recommendation (LoR): Minimum **3 tasks** completed  
 
 ## 🌟 Connect with Me  
 💼 [LinkedIn](https://linkedin.com/in/kiranmai-meghana)  
