@@ -12,17 +12,6 @@ This internship focuses on **AI-driven prompt engineering**, enabling participan
 🔹 Tools Used: Adobe Premiere Pro, Canva, DALL·E, Lumen5  
 🔹 Deliverable: A 30-60 sec marketing video using AI-generated images and text  
 
-📁 **Task-2: AI-Powered Website (No-Code)**  
-🔹 Skills Gained: AI integration, website development, UX design  
-🔹 Tools Used: Wix AI, Webflow AI, Figma, Zapier  
-🔹 Deliverable: A functional AI-powered website with seamless user experience  
-
-📁 **Task-3: AI Prompt Optimization**  
-🔹 Skills Gained: Prompt engineering, content creation, SEO optimization  
-🔹 Tools Used: ChatGPT, Jasper AI, Copy.ai  
-🔹 Deliverable: A set of optimized prompts for blog posts, product descriptions, or ad copy  
-
-*(More tasks will be updated as I progress in the internship.)*  
 
 
 ## 🌟 Connect with Me  
